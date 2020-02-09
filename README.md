@@ -1,7 +1,10 @@
 # GitHomework
 GitHomework
+
 Bla aaaaaaaaaablaaaaaaaa
 "+p
+
+shift+insert!!!!!!!! 
 
 NAME
 git-branch - List, create, or delete branches
@@ -224,9 +227,12 @@ GIT
 Part of the git[1] suite
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> Branch5
+=======
+>>>>>>> Branch6
 NAME
 git-branch - List, create, or delete branches
 
