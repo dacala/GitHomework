@@ -2,6 +2,7 @@
 GitHomework
 Bla aaaaaaaaaablaaaaaaaa
 "+p
+
 NAME
 git-branch - List, create, or delete branches
 
@@ -222,7 +223,10 @@ git-check-ref-format[1], git-fetch[1], git-remote[1], “Understanding history: 
 GIT
 Part of the git[1] suite
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Branch5
 NAME
 git-branch - List, create, or delete branches
 
